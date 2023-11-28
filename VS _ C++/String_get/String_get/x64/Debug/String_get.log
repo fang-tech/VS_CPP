@@ -1,0 +1,3 @@
+﻿  STR.cpp
+E:\VS _ C++\String_get\String_get\STR.cpp(16,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  String_get.vcxproj -> E:\VS _ C++\String_get\x64\Debug\String_get.exe
